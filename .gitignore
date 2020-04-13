@@ -1,0 +1,8 @@
+﻿appsettings.json
+*.sln
+.idea
+.vs
+bin
+debug
+.git
+obj
